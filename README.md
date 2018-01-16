@@ -1,3 +1,5 @@
+Python Fire 是 Google 开源的一个可从任何 Python 代码自动生成命令行接口（CLI）的库。Python Fire 是一种在 Python 中创建 CLI 的简单方法；是开发和调试 Python 代码的有用工具；能够使 Bash 和 Python 之间的转换更为容易；并且通过使用你需要导入和创建的模块和变量来设置 REPL，使得使用 Python REPL 更容易（详情
+
 # Python Fire [![PyPI](https://img.shields.io/pypi/pyversions/fire.svg?style=plastic)](https://github.com/google/python-fire)
 _Python Fire is a library for automatically generating command line interfaces
 (CLIs) from absolutely any Python object._
